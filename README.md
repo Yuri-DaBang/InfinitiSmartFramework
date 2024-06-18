@@ -1,45 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Command Line Tool Commands</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f0f0f0;
-        }
-        h2 {
-            color: #333;
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 5px;
-        }
-        h3 {
-            color: #444;
-            margin-top: 20px;
-        }
-        p {
-            margin-bottom: 10px;
-        }
-        pre {
-            background-color: #f5f5f5;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-        pre code {
-            font-family: Consolas, Monaco, 'Andale Mono', monospace;
-        }
-        pre.example {
-            background-color: #fff;
-        }
-    </style>
-</head>
-<body>
+
     <h2>Commands:</h2>
 
     <h3>cli</h3>
@@ -160,5 +119,3 @@
     <pre><code>cls</code></pre>
     <pre><code>clear</code></pre>
 
-</body>
-</html>
